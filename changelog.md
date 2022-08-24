@@ -2,6 +2,8 @@ Moved goddamn everything to github, updated text documents (matching main pack c
 
 updated pack format to 9 (matching main pack changes)
 
+Updated lang file for new version (matching main pack changes)
+
 ---
 
     1.18v1.1
