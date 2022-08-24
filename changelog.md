@@ -1,5 +1,6 @@
-    Moved goddamn everything to github, updated text documents (matching main pack changes)
-    updated pack format to 9 (matching main pack changes)
+Moved goddamn everything to github, updated text documents (matching main pack changes)
+
+updated pack format to 9 (matching main pack changes)
 
 ---
 
