@@ -1,4 +1,4 @@
-# Piogre's SummaXR Vanilla Adapter Build 1.18v1.1
+# Piogre's SummaXR Vanilla Adapter Build 1.19v1.0
 
 This pack is intended to be run locally for users on SummaXR who wish to access the special features of the server pack without running the entire pack.
 
@@ -6,13 +6,13 @@ This pack will replace only what is necessary to esperience the new features.
 
 It includes textures from contributors to that pack, including primarily Rhodox.
 
-This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.18v1.1"
+This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.19v1.0"
 
 That pack's readme is included below:
 
 That pack's page is https://github.com/Piogre/SummaXR-Custom-Painterly
 
-# Piogre's SummaXR Painterly Pack Build 1.18v1.1
+# Piogre's SummaXR Painterly Pack Build 1.19v1.0
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
@@ -25,7 +25,7 @@ A full list of acknowledgements can be found in acknowledgements.txt
 ---
 
     This pack was moved to github, resulting in some structural changes.
-    a new build did not accompany this change, but the next new build will be on github.
+    a new build did not accompany this change, but the next new build will be on github. (EDIT: 1.19v1.0)
 
     Previous iterations of the readme are included below:
 

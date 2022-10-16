@@ -1,6 +1,8 @@
+    1.19v1.0
     Moved goddamn everything to github, updated text documents (matching main pack changes)
     updated pack format to 9 (matching main pack changes)
     Updated lang file for new version (matching main pack changes)
+    fixed version cahracter ascent (matching main pack changes)
 
 ---
 
