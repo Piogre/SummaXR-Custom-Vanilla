@@ -12,7 +12,7 @@ That pack's readme is included below:
 
 That pack's page is https://github.com/Piogre/SummaXR-Custom-Painterly
 
-# Piogre's SummaXR Painterly Pack Build 1.19v1.0
+# Piogre's SummaXR Painterly Pack Build 1.19v1.1
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
