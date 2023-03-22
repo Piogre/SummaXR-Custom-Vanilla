@@ -1,3 +1,10 @@
+    1.19v1.1
+    Added custom and customnoredist folders to blocks atlas so they get loaded properly (matching main pack changes)
+    updated en_us.json to match vanilla (matching main pack changes)
+    updated feature-compatibility version character (matching main pack changes)
+
+---
+
     1.19v1.0
     Moved goddamn everything to github, updated text documents (matching main pack changes)
     updated pack format to 9 (matching main pack changes)

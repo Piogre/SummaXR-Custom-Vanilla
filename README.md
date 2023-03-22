@@ -1,4 +1,4 @@
-# Piogre's SummaXR Vanilla Adapter Build 1.19v1.0
+# Piogre's SummaXR Vanilla Adapter Build 1.19v1.1
 
 This pack is intended to be run locally for users on SummaXR who wish to access the special features of the server pack without running the entire pack.
 
