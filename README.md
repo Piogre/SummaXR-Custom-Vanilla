@@ -1,4 +1,4 @@
-# Piogre's SummaXR Vanilla Adapter Build 1.19v1.1
+# Piogre's SummaXR Vanilla Adapter Build 1.19v1.2
 
 This pack is intended to be run locally for users on SummaXR who wish to access the special features of the server pack without running the entire pack.
 
@@ -6,13 +6,13 @@ This pack will replace only what is necessary to esperience the new features.
 
 It includes textures from contributors to that pack, including primarily Rhodox.
 
-This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.19v1.0"
+This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.19v1.2"
 
 That pack's readme is included below:
 
 That pack's page is https://github.com/Piogre/SummaXR-Custom-Painterly
 
-# Piogre's SummaXR Painterly Pack Build 1.19v1.1
+# Piogre's SummaXR Painterly Pack Build 1.19v1.2
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
@@ -74,7 +74,7 @@ A full list of acknowledgements can be found in acknowledgements.txt
 
     1.16v1
     The contained pack is an effort by Piogre to convert the SummaXR Custom Painterly pack to 1.16 as completely and accurately as possible.
-    The Painterly pack was originally created by Rhodox http://painterlypack.net/, and continued additions were made to the pack by GerbilCrab475 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2745841-painterly-pack-continuation-project-fan-patch
+    The Painterly pack was originally created by Rhodox https://web.archive.org/web/20220412003025/painterlypack.net/ and continued additions were made to the pack by GerbilCrab475 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2745841-painterly-pack-continuation-project-fan-patch
     This pack only contains adjustments made to combine textures from the above sources to a single pack which functions in 1.16.  Minimal additional content has been added.  If a decision is made to add new textures for new game features, it will be done in a new version.
     There are no plans to redistribute this beyond providing it to the server owner who provided Piogre with the base pack to make adjustments to.
 

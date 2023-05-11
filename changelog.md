@@ -1,3 +1,12 @@
+    1.19v1.2
+    fixed blocks atlas to make additive (matching main pack changes)
+    Added wand texture for debug stick (matching main pack changes)
+    updated en_us.json to match vanilla (matching main pack changes)
+    updated feature-compatibility version character (matching main pack changes)
+    updated pack format to 13 (matching main pack changes)
+
+---
+
     1.19v1.1
     Added custom and customnoredist folders to blocks atlas so they get loaded properly (matching main pack changes)
     updated en_us.json to match vanilla (matching main pack changes)
