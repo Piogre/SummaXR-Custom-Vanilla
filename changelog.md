@@ -1,3 +1,9 @@
+    1.20v1.0
+    Removed all custom armor/elytra models/textures to add temporary trim-compatible armor
+    updated pack format to 1.20
+
+---
+
     1.19v1.2
     fixed blocks atlas to make additive (matching main pack changes)
     Added wand texture for debug stick (matching main pack changes)
