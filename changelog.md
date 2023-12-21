@@ -1,6 +1,20 @@
-    1.20v1.0
-    Removed all custom armor/elytra models/textures to add temporary trim-compatible armor
-    updated pack format to 1.20
+    1.20v1.1
+    updated pack format to 18 (matching main pack changes in 1.20v1.0)
+    Gutted pack for new "layer over default pack" paradigm (matching main pack changes in 1.20v1.0)
+    updated pack.png (matching main pack changes in 1.20v1.0)
+    re-removed inventory subtitle (matching main pack changes in 1.20v1.0)
+    re-fix honey drink sound (matching main pack changes in 1.20v1.0)
+    re-added custom models/materials (matching main pack changes in 1.20v1.0):
+        menu arrows (arrow)
+        phantasmal bones (bone)
+        cheese (bread)
+        tiered gear buttons for forger (diamond)
+        gems, crystallized xp (emerald)
+        alcohol bottles empty and full (glass_bottle, honey_bottle)
+        tribute (gold_nugget)
+        dark matter (nether_star)
+        adventurer's crystal (prismarine_crystals)
+        new player's guide (written_book)
 
 ---
 
