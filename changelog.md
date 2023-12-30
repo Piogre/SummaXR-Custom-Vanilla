@@ -1,4 +1,5 @@
     1.20v1.1
+    Rewrote custom container titles to work around broken transparency in bitmap fonts (matching main pack changes)
     updated pack format to 18 (matching main pack changes in 1.20v1.0)
     Gutted pack for new "layer over default pack" paradigm (matching main pack changes in 1.20v1.0)
     updated pack.png (matching main pack changes in 1.20v1.0)
