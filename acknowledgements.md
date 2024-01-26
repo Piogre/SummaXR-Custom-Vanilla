@@ -1,8 +1,11 @@
-The Acknoledgements file for Piogre's SummaXR Vanilla Adapter Build 1.19v1.2 is pasted below.
+The Acknoledgements file for Piogre's SummaXR Vanilla Adapter Build 1.20v1.1 is pasted below.
 This pack might not contain resources pertaining to all acknowledgements listed here.
-They have all been copied jsut in case.
+They have all been copied just in case.
 
 -------------------
+
+# This file is identical across both the regular release, and the compiled release that includes the base painterly continuation pack.
+# The regular release may not contain files by all the below contributors, but it is intended to be run atop a base pack which does.
 
 # Included here is as full a list I can find of contributors:
 
@@ -14,19 +17,17 @@ They have all been copied jsut in case.
 
 ### Piogre -- curator and gap-filler of this pack
 
-Textures in textures/customnoredist were acquired by paid non-redistribution license.  If they are included in redistributable source, they are done so in error.
-
 Known Contributors from the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
-    Twerps3#8663
-    Mercuriomc#7713
-    Morlaer#4181
-    fortis#6320
-    Wolf Waifu~#0666
-    WarLord#2912
-    +Plus any other unknown contributors to the packs assembled and released on the channel by fortis#6320
+    twerps3
+    mercuriomc
+    morlaer
+    fortis
+    poisonebony666
+    warlord_666
+    +Plus any other unknown contributors to the packs assembled and released on the channel by fortis
 
 This pack imitates the structure and template of the "Simple Voice Chat" mod in order to support it
-https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat -- currently supports 1.19.4-2.4.7
+https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat -- currently supports 1.20.2v2.4.28
 
 This pack includes several emotes commonly used on the discord
 The graphics for emotes, like their discord counterparts, are sourced from https://twemoji.twitter.com/

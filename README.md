@@ -1,4 +1,4 @@
-# Piogre's SummaXR Vanilla Adapter Build 1.19v1.2
+# Piogre's SummaXR Vanilla Adapter Build 1.20v1.1
 
 This pack is intended to be run locally for users on SummaXR who wish to access the special features of the server pack without running the entire pack.
 
@@ -6,21 +6,39 @@ This pack will replace only what is necessary to esperience the new features.
 
 It includes textures from contributors to that pack, including primarily Rhodox.
 
-This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.19v1.2"
-
-That pack's readme is included below:
+This pack corresponds to "Piogre's SummaXR Painterly Pack Build 1.20v1.1"
 
 That pack's page is https://github.com/Piogre/SummaXR-Custom-Painterly
 
-# Piogre's SummaXR Painterly Pack Build 1.19v1.2
+That pack's readme is included below:
+
+---
+
+# Piogre's SummaXR Painterly Pack Build 1.20v1.1
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
-It is curated from original Rhodox Painterly textures, Piogre's additions, and other contributions.
+It is intended to be run locally atop the current release of the base Painterly Continuation Pack
+(Released on the Painterly Continuation Project Discord https://discord.gg/HFxBurd)
+
+There exists a server version which combines both packs for use as a server resource pack, combining both packs
+The server release will have an addendum above this README section.
+The pack does not require use of both the server pack and client pack; either works.
+
+This pack is curated from original Rhodox Painterly textures, Piogre's additions, and other contributions.
 
 This file includes major pack changes and old versions of the README.  For a full list of changes, consult the changelog.
 
 A full list of acknowledgements can be found in acknowledgements.txt
+
+Currently supports henkelmax's Simple Voice Chat mod 1.20.2v2.4.28
+
+---
+
+    1.20v1.0
+    
+    This pack has been stripped of most of its assets, and is now intended to be layered atop whatever the current painterly continuation base pack is.
+    This will likely reduce update debt on my part
 
 ---
 

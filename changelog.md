@@ -16,6 +16,7 @@
         dark matter (nether_star)
         adventurer's crystal (prismarine_crystals)
         new player's guide (written_book)
+    Updated Version character (matching main pack changes)
 
 ---
 
